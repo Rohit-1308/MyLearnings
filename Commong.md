@@ -9,7 +9,7 @@ it will first return variable and then make changes.
 varible=+1;
 ```
 
-# It is  same as
+# It is not same as
 ```sh
 varible=+1;   
 ```
