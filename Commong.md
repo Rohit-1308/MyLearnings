@@ -11,7 +11,7 @@ varible=+1;
 
 # It is not same as
 ```sh
-varible=+1;   
+varible+=1;   
 ```
 #NOTE: to understand just follow sequence of operators
 it will perform operation in sequence of operators.
