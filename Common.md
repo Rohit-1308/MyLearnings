@@ -15,7 +15,7 @@ varible+=1;
 ```
 #NOTE: to understand just follow sequence of operators
 it will perform operation in sequence of operators.
-in above case it will copy the current value because of [=]
-and then add because of [+]
+in above case it will copy the current value because of ```=```
+and then add because of ```+```
 
 
